@@ -1,2 +1,2 @@
 # CM_labs
-Laboratory works on course "Computational Mathematics"
+Laboratory works on the course "Computational Mathematics"
